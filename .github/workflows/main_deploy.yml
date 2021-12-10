@@ -2,8 +2,6 @@ name: Deploy to Servers
 on:
   push:
     branches: main
-  pull_request:
-    branches: main
 jobs:
   job1:
     name: Deploy to Servers

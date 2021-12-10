@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0,Jump
+https://www.dl.dropboxusercontent.com/s/sdjm9ivvswddrfk/Jump.mp3?dl=1
+#EXTINF:0,Panama
+https://www.dl.dropboxusercontent.com/s/jg24rolqjy5pt2g/Panama.mp3?dl=1
+#EXTINF:0,Ain't Talkin' 'Bout Love
+https://www.dl.dropboxusercontent.com/s/0egvlqiwnzud988/Ain%27t%20Talkin%27%20%27Bout%20Love.mp3?dl=1
+#EXTINF:0,Cathedral
+https://www.dl.dropboxusercontent.com/s/0hfvdtshkcs10na/Cathedral.mp3?dl=1
+#EXTINF:0,I'll Wait
+https://www.dl.dropboxusercontent.com/s/kqd56k8ls9535ft/I%27ll%20Wait.mp3?dl=1
+#EXTINF:0,Eruption
+https://www.dl.dropboxusercontent.com/s/1gpi1wcgazo00xl/Eruption.mp3?dl=1
+#EXTINF:0,You Really Got Me
+https://www.dl.dropboxusercontent.com/s/2fy4115vpq6pifa/You%20Really%20Got%20Me.mp3?dl=1
+#EXTINF:0,Runnin' with the Devil
+https://www.dl.dropboxusercontent.com/s/ljvedvx2cie13tb/Runnin%27%20with%20the%20Devil.mp3?dl=1
+#EXTINF:0,Right Now
+https://www.dl.dropboxusercontent.com/s/fexzk59kuh5qb43/Right%20Now.mp3?dl=1
+#EXTINF:0,Hot for Teacher
+https://www.dl.dropboxusercontent.com/s/9li4o34em1tm7va/Hot%20for%20Teacher.mp3?dl=1
+#EXTINF:0,Unchained
+https://www.dl.dropboxusercontent.com/s/dk47532r9voemuz/Unchained.mp3?dl=1
+#EXTINF:0,Why Can't This Be Love
+https://www.dl.dropboxusercontent.com/s/o0ajfqfwddo2cp8/Why%20Can%27t%20This%20Be%20Love.mp3?dl=1

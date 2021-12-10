@@ -14,7 +14,7 @@ Acceptable character range is ```a-z``` ```-``` and ```_```
 Examples: ```folder``` ```folder-name``` ```folder_name```
 
 # Community Rules
-* Users are only allowed 1 folder or file within ```community```
-* Users can create as many folders/files if they made a main folder within ```community```
+* Users are only allowed 1 folder or file within the ```community``` folder.
+* Users can create as many folders/files if they made a main folder within the ```community``` folder.
 * No obnoxious/inappropriate audio within the playlist.
 * No meme playlists.

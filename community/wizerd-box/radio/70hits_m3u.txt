@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0,70s Hits 2
+http://rfcmedia.streamguys1.com:80/70hits.mp3

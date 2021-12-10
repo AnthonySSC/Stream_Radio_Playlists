@@ -18,6 +18,7 @@ jobs:
         password: ${{ secrets.ftppassword }}
         local-dir: ./
         server-dir: /147.135.124.18_27018/garrysmod/data/streamradio/playlists/
+        dangerous-clean-slate: true
         exclude: |
           **/.git*
           **/.git*/**

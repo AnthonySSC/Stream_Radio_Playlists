@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:0,Rock - Super Storm Chasing Radio
+http://radio.superstormchasing.net:50000
+#EXTINF:0,Country - Super Storm Chasing Radio
+http://radio.superstormchasing.net:50001
+#EXTINF:0,Pop - Super Storm Chasing Radio
+http://radio.superstormchasing.net:50002
+#EXTINF:0,Electronic - Super Storm Chasing Radio
+http://radio.superstormchasing.net:50003
+#EXTINF:0,Minecraft - Super Storm Chasing Radio
+http://radio.superstormchasing.net:50004
+

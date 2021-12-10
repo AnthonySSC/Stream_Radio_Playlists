@@ -1,0 +1,27 @@
+name: Deploy to Servers
+on:
+  push:
+    branches: main
+  pull_request:
+    branches: main
+jobs:
+  job1:
+    name: Deploy to Servers
+    runs-on: ubuntu-latest
+    steps:
+    - name: Get Latest Code
+      uses: actions/checkout@v2
+    
+    - name: sscdev1
+      uses: SamKirkland/FTP-Deploy-Action@4.2.0
+      with:
+        server: ${{ secrets.ftpip }}
+        username: ${{ secrets.ftpusername }}
+        password: ${{ secrets.ftppassword }}
+        local-dir: ./
+        server-dir: /147.135.124.18_27018/garrysmod/data/streamradio/playlists/
+        exclude: |
+          **/.git*
+          **/.git*/**
+          **/node_modules/**
+          README.md

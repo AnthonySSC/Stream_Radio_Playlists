@@ -10,6 +10,21 @@ jobs:
     - name: Get Latest Code
       uses: actions/checkout@v2
     
+    - name: ssc1
+      uses: SamKirkland/FTP-Deploy-Action@4.2.0
+      with:
+        server: ${{ secrets.ftpip }}
+        username: ${{ secrets.ftpusername }}
+        password: ${{ secrets.ftppassword }}
+        local-dir: ./
+        server-dir: /147.135.124.18_27015/garrysmod/data/streamradio/playlists/
+        dangerous-clean-slate: true
+        exclude: |
+          **/.git*
+          **/.git*/**
+          **/node_modules/**
+          README.md
+    
     - name: sscdev1
       uses: SamKirkland/FTP-Deploy-Action@4.2.0
       with:

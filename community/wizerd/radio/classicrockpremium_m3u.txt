@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0,Classic Rock 1
+http://rfcmedia.streamguys1.com:80/classicrockpremium.mp3

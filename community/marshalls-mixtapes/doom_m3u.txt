@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:0,At Doom's Gate
+https://marshalls-music.ga/doom/At%20Doom's%20Gate.mp3
+#EXTINF:0,BFG Division
+https://marshalls-music.ga/doom/BFG%20Division.mp3
+#EXTINF:0,DOOM CROSSING
+https://marshalls-music.ga/doom/DOOM%20CROSSING.mp3
+#EXTINF:0,The Only Thing they Fear is You
+https://marshalls-music.ga/doom/The%20Only%20Thing%20they%20Fear%20is%20You.mp3
+

@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:0,darix togni - Digi G'Alessio.mp3
+https://marshalls-music.ga/trolling/darix%20togni%20-%20Digi%20G'Alessio.mp3
+#EXTINF:0,Merry_Go.wav
+https://marshalls-music.ga/trolling/Merry_Go.wav
+#EXTINF:0,Monkeys_Spinning_Monkeys.wav
+https://marshalls-music.ga/trolling/Monkeys_Spinning_Monkeys.wav
+#EXTINF:0,Scheming_Weasel_faster.wav
+https://marshalls-music.ga/trolling/Scheming_Weasel_faster.wav
+#EXTINF:0,Spazzmatica_Polka.wav
+https://marshalls-music.ga/trolling/Spazzmatica_Polka.wav
+#EXTINF:0,The Happy Troll (song) - by D1ofAquavibe.mp3
+https://marshalls-music.ga/trolling/The%20Happy%20Troll%20(song)%20-%20by%20D1ofAquavibe.mp3
+#EXTINF:0,The Party Troll (song) by D1ofAquavibe.mp3
+https://marshalls-music.ga/trolling/The%20Party%20Troll%20(song)%20by%20D1ofAquavibe.mp3
+#EXTINF:0,The_Happy_Troll_Griefing_Theme_Song.mp3
+https://marshalls-music.ga/trolling/The_Happy_Troll_Griefing_Theme_Song.mp3
+#EXTINF:0,Trololo Sing Along!.mp3
+https://marshalls-music.ga/trolling/Trololo%20Sing%20Along!.mp3
+

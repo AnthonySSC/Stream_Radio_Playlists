@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:0,Grape Soda
+https://www.dropbox.com/s/7w9cfcj38trdoxd/Grape%20Soda.mp3?dl=1
+#EXTINF:0,Hot Milk
+https://www.dropbox.com/s/1uvbp1p4ilck46q/Hot%20Milk.mp3?dl=1
+#EXTINF:0,Ma Chouchoute
+https://www.dropbox.com/s/o05q8zg70dv2tho/Ma%20Chouchoute.mp3?dl=1
+#EXTINF:0,Pastel
+https://www.dropbox.com/s/6l51lq8rlvfdgl8/Pastel.mp3?dl=1
+#EXTINF:0,Pixel Galaxy
+https://www.dropbox.com/s/jdq6dxz9uw50lhz/Pixel%20Galaxy.mp3?dl=1
+#EXTINF:0,Twinklestar
+https://www.dropbox.com/s/rp38a8o9fv8r1nc/Twinklestar.mp3?dl=1
+#EXTINF:0,Warp Star
+https://www.dropbox.com/s/sk6bgw833dpvi4o/Warp%20Star.mp3?dl=1
+

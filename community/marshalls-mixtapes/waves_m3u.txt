@@ -1,0 +1,204 @@
+#EXTM3U
+#EXTINF:0,(Eternal) Sunbathing
+https://varachack.github.io/Varachack/Waves/ULTRA%20-%20(Eternal)%20Sunbathing.mp3
+#EXTINF:0,1983
+https://varachack.github.io/Varachack/Waves/H%CE%9BRRISON%20-%201983.mp3
+#EXTINF:0,43
+https://varachack.github.io/Varachack/Waves/Don't%20Be%20Square%20-%2043%C2%B0.mp3
+#EXTINF:0,5 AM
+https://varachack.github.io/Varachack/Waves/Tora%20Tora%20-%205%20AM.mp3
+#EXTINF:0,Android 18
+https://varachack.github.io/Varachack/Waves/MAITRO%20-%20Android%2018.mp3
+#EXTINF:0,Arctic Sun
+https://varachack.github.io/Varachack/Waves/Arcis%20-%20Atlantic%20Sun.mp3
+#EXTINF:0,Beyond This
+https://varachack.github.io/Varachack/Waves/Verest%20-%20Beyond%20This.mp3
+#EXTINF:0,Bright Lights in Silent Rooms
+https://varachack.github.io/Varachack/Waves/HOME%20-%20Bright%20Lights%20in%20Silent%20Rooms.mp3
+#EXTINF:0,Caligula
+https://varachack.github.io/Varachack/Waves/Windows%E5%BD%A196%20-%20Caligula.mp3
+#EXTINF:0,Cloudy
+https://varachack.github.io/Varachack/Waves/Hunna%20G%20-%20Cloudy.mp3
+#EXTINF:0,Cruise With You
+https://varachack.github.io/Varachack/Waves/Aloe%20Island%20Posse%20ft.%20ID%20Chief%20-%20Cruise%20With%20You.mp3
+#EXTINF:0,Cry 2 Me
+https://varachack.github.io/Varachack/Waves/Flamingosis%20ft.%20YUNG%20BAE%20-%20Cry%202%20Me.mp3
+#EXTINF:0,Decades
+https://varachack.github.io/Varachack/Waves/Skjalg%20A.%20Skagen%20-%20Decades.mp3
+#EXTINF:0,Decay
+https://varachack.github.io/Varachack/Waves/HOME%20-%20Decay.mp3
+#EXTINF:0,Descend
+https://varachack.github.io/Varachack/Waves/Emil%20Rottmayer%20-%20Descend.mp3
+#EXTINF:0,Destine
+https://varachack.github.io/Varachack/Waves/VECTOR%20GRAPHICS%20-%20DESTINE.mp3
+#EXTINF:0,DigDug3
+https://varachack.github.io/Varachack/Waves/DJ%20Grumble%20-%20DigDug3.mp3
+#EXTINF:0,Do 4 Love
+https://varachack.github.io/Varachack/Waves/MAITRO%20-%20Do%204%20Love.mp3
+#EXTINF:0,Dream Girl
+https://varachack.github.io/Varachack/Waves/Sloslylove%20-%20Dream%20Girl.mp3
+#EXTINF:0,Dreams
+https://varachack.github.io/Varachack/Waves/SAINT%20PEPSI%20-%20Dreams.mp3
+#EXTINF:0,Es Tas South
+https://varachack.github.io/Varachack/Waves/Funkmammoth%20-%20Es%20Tas%20South.mp3
+#EXTINF:0,Escape
+https://varachack.github.io/Varachack/Waves/FarragoL%20-%20Escape.mp3
+#EXTINF:0,Eternal Groove
+https://varachack.github.io/Varachack/Waves/Flamingosis%20-%20Eternal%20Groove.mp3
+#EXTINF:0,European Roulette
+https://varachack.github.io/Varachack/Waves/MAITRO%20-%20European%20Roulette.mp3
+#EXTINF:0,Extended Away
+https://varachack.github.io/Varachack/Waves/The%20Beat%20Broker%20-%20Extended%20Away.mp3
+#EXTINF:0,Feel You
+https://varachack.github.io/Varachack/Waves/X3SR%20-%20F%20E%20E%20L%20Y%20O%20U.mp3
+#EXTINF:0,Flight
+https://varachack.github.io/Varachack/Waves/Aritus%20-%20Flight.mp3
+#EXTINF:0,Football Head
+https://varachack.github.io/Varachack/Waves/Flamingosis%20-%20Football%20Head.mp3
+#EXTINF:0,Forgettin'
+https://varachack.github.io/Varachack/Waves/Vanilla%20-%20Forgettin'.mp3
+#EXTINF:0,Fuck Writer's Block
+https://varachack.github.io/Varachack/Waves/Rosentwig%20-%20Fuck%20Writer's%20Block.mp3
+#EXTINF:0,Golden Dust
+https://varachack.github.io/Varachack/Waves/Alison%20-%20Golden%20Dust.mp3
+#EXTINF:0,Heart
+https://varachack.github.io/Varachack/Waves/Matsura%20-%20Heart.mp3
+#EXTINF:0,Humanoid Love
+https://varachack.github.io/Varachack/Waves/Cats%20Corp.%20-%20Humanoid%20Love.mp3
+#EXTINF:0,Illusory
+https://varachack.github.io/Varachack/Waves/Oddling%20-%20Illusory.mp3
+#EXTINF:0,Island Sunrise
+https://varachack.github.io/Varachack/Waves/Software%20-%20Island%20Sunrise%20(Music%20Video).mp3
+#EXTINF:0,It's Very Sunny
+https://varachack.github.io/Varachack/Waves/Memorex%20Memories%20-%20It's%20Very%20Sunny.mp3
+#EXTINF:0,Just a Little
+https://varachack.github.io/Varachack/Waves/Amherst%20-%20Just%20A%20Little.mp3
+#EXTINF:0,Keep On
+https://varachack.github.io/Varachack/Waves/Night%20Tempo%20-%20Keep%20On.mp3
+#EXTINF:0,Kid Goku
+https://varachack.github.io/Varachack/Waves/MAITRO%20-%20Kid%20Goku.mp3
+#EXTINF:0,Korin Tower
+https://varachack.github.io/Varachack/Waves/MAITRO%20-%20Korin%20Tower.mp3
+#EXTINF:0,L.I.F.T.
+https://varachack.github.io/Varachack/Waves/Emil%20Rottmayer%20-%20L.I.F.T.mp3
+#EXTINF:0,Laid Back
+https://varachack.github.io/Varachack/Waves/Bonus%20Points%20-%20Laid%20Back.mp3
+#EXTINF:0,Last Hours
+https://varachack.github.io/Varachack/Waves/Windows%E5%BD%A196%20-%20Last%20Hours.mp3
+#EXTINF:0,Lifestyle
+https://varachack.github.io/Varachack/Waves/Duett%20-%20Lifestyle.mp3
+#EXTINF:0,Limit
+https://varachack.github.io/Varachack/Waves/Emil%20Rottmayer%20-%20Limit.mp3
+#EXTINF:0,Lit
+https://varachack.github.io/Varachack/Waves/Mitch%20Murder%20-%20Lit.mp3
+#EXTINF:0,Live Forever
+https://varachack.github.io/Varachack/Waves/T%20e%20l%20e%20p%20a%20t%20h%20%E3%83%86%E3%83%AC%E3%83%91%E3%82%B7%E3%83%BC%E8%83%BD%E5%8A%9B%E8%80%85%20-%20Live%20Forever.mp3
+#EXTINF:0,Lonely Afternoon
+https://varachack.github.io/Varachack/Waves/Windows%E5%BD%A196%20-%20Lonely%20Afternoon.mp3
+#EXTINF:0,Lonely Rhodes
+https://varachack.github.io/Varachack/Waves/ConsciousThoughts%20-%20Lonely%20Rhodes.mp3
+#EXTINF:0,Love in the Rain
+https://varachack.github.io/Varachack/Waves/CapoBlanco%20-%20Love%20In%20The%20Rain.mp3
+#EXTINF:0,Merodii (Melody)
+https://varachack.github.io/Varachack/Waves/FarragoL%20-%20Merodii%20(Melody).mp3
+#EXTINF:0,Metropolis
+https://varachack.github.io/Varachack/Waves/L'ind%C3%A9cis%20-%20Metropolis.mp3
+#EXTINF:0,New Times
+https://varachack.github.io/Varachack/Waves/Digital%20Waves%20-%20New%20Times.mp3
+#EXTINF:0,Next Exit
+https://varachack.github.io/Varachack/Waves/Nameless%20Warning%20-%20Next%20Exit.mp3
+#EXTINF:0,Night Coast
+https://varachack.github.io/Varachack/Waves/MAITRO%20-%20Night%20Coast.mp3
+#EXTINF:0,Night Driving
+https://varachack.github.io/Varachack/Waves/AquaCola%20-%20Night%20Driving.mp3
+#EXTINF:0,No Question
+https://varachack.github.io/Varachack/Waves/Onra%20-%20No%20Question%20ft.%20Pomrad.mp3
+#EXTINF:0,Nova
+https://varachack.github.io/Varachack/Waves/Saint%20Pepsi%20-%20Nova.mp3
+#EXTINF:0,Outlook
+https://varachack.github.io/Varachack/Waves/Luxury%20Elite%20-%20Outlook.mp3
+#EXTINF:0,Palm Tree
+https://varachack.github.io/Varachack/Waves/Laster%20-%20Palm%20Tree.mp3
+#EXTINF:0,Paradise (Voyage)
+https://varachack.github.io/Varachack/Waves/Voyage%20-%20Paradise.mp3
+#EXTINF:0,Paradise (Caleb Belkin)
+https://varachack.github.io/Varachack/Waves/Caleb%20Belkin%20-%20Paradise.mp3
+#EXTINF:0,Paradise Depth
+https://varachack.github.io/Varachack/Waves/Hello%20Meteor%20-%20Paradise%20Depth.mp3
+#EXTINF:0,Personality
+https://varachack.github.io/Varachack/Waves/Fibre%20-%20Personality.mp3
+#EXTINF:0,Pining
+https://varachack.github.io/Varachack/Waves/Aritus%20-%20Pining.mp3
+#EXTINF:0,Pizza Day
+https://varachack.github.io/Varachack/Waves/ESPRIT%20%E7%A9%BA%E6%83%B3%20-%20Pizza%20Day.mp3
+#EXTINF:0,Police Work
+https://varachack.github.io/Varachack/Waves/SPACE%20MAGIC%20%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%20%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%20-%20Police%20Work.mp3
+#EXTINF:0,Pure Sport
+https://varachack.github.io/Varachack/Waves/Mondgomery%20-%20Pure%20Sport.mp3
+#EXTINF:0,Remember
+https://varachack.github.io/Varachack/Waves/Aritus%20-%20Remember.mp3
+#EXTINF:0,Remote Warehouse District
+https://varachack.github.io/Varachack/Waves/Sasac%20-%20Remote%20Warehouse%20District.mp3
+#EXTINF:0,Resonance
+https://varachack.github.io/Varachack/Waves/HOME%20-%20Resonance.mp3
+#EXTINF:0,Rock Wit'cha
+https://varachack.github.io/Varachack/Waves/Waterfront%20Dining%20x%20%E7%8C%AB%20%E3%82%B7%20Corp.%20-%20Rock%20Wit'cha.mp3
+#EXTINF:0,Sailor Jupiter
+https://varachack.github.io/Varachack/Waves/MACROSS%2082-99%20-%20Sailor%20Jupiter.mp3
+#EXTINF:0,Scouter
+https://varachack.github.io/Varachack/Waves/MAITRO%20-%20SCOUTER.mp3
+#EXTINF:0,Sea
+https://varachack.github.io/Varachack/Waves/RITCHRD%20-%20SEA.mp3
+#EXTINF:0,Serebro
+https://varachack.github.io/Varachack/Waves/Audiosynthes%20-%20Serebro.mp3
+#EXTINF:0,Skylines
+https://varachack.github.io/Varachack/Waves/F%20A%20B%20R%20I%20X%20-%20Skylines.mp3
+#EXTINF:0,Snacks on Snacks
+https://varachack.github.io/Varachack/Waves/Flamingosis%20-%20Snacks%20On%20Snacks.mp3
+#EXTINF:0,Snake Way
+https://varachack.github.io/Varachack/Waves/MAITRO%20-%20SNAKE%20WAY.mp3
+#EXTINF:0,Space Echo
+https://varachack.github.io/Varachack/Waves/A.L.I.S.O.N%20-%20Space%20Echo.mp3
+#EXTINF:0,Spend the Night
+https://varachack.github.io/Varachack/Waves/G%20h%20o%20s%20t%20i%20n%20g%20-%20Spend%20the%20Night.mp3
+#EXTINF:0,Stardust
+https://varachack.github.io/Varachack/Waves/Cyberlust%20-%20Stardust.mp3
+#EXTINF:0,Still In Love
+https://varachack.github.io/Varachack/Waves/ConsciousThoughts%20-%20Still%20In%20Love.mp3
+#EXTINF:0,Summer Night
+https://varachack.github.io/Varachack/Waves/ESPRIT%20%E7%A9%BA%E6%83%B3%20-%20SUMMER%20NIGHT.mp3
+#EXTINF:0,Summer VI
+https://varachack.github.io/Varachack/Waves/Bansheebeat%20ft.%20YUNG%20BAE%20-%20SUMMER%20VI.mp3
+#EXTINF:0,Sunflowers
+https://varachack.github.io/Varachack/Waves/Saib.%20-%20Sunflowers.mp3
+#EXTINF:0,Ternure
+https://varachack.github.io/Varachack/Waves/Don't%20Be%20Square%20-%20Ternure.mp3
+#EXTINF:0,The Reflection
+https://varachack.github.io/Varachack/Waves/BBRAINZ%20-%20%E3%83%AA%E3%83%95%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3.mp3
+#EXTINF:0,The Touch
+https://varachack.github.io/Varachack/Waves/Mitch%20Murder%20-%20The%20Touch.mp3
+#EXTINF:0,Tiki
+https://varachack.github.io/Varachack/Waves/BACKWHEN%20-%20Tiki.mp3
+#EXTINF:0,Time is Running Out
+https://varachack.github.io/Varachack/Waves/MAITRO%20-%20Time%20Is%20Running%20Out.mp3
+#EXTINF:0,Tokyo Cruising
+https://varachack.github.io/Varachack/Waves/BBRAINZ%20ft.%20STEREO%20COMPONENT%20-%20TOKYO%20CRUISING.mp3
+#EXTINF:0,Touch the Sky
+https://varachack.github.io/Varachack/Waves/MAITRO%20-%20Touch%20the%20Sky.mp3
+#EXTINF:0,Tsuki
+https://varachack.github.io/Varachack/Waves/Yuki%20Ame%20-%20TSUKI%20%E6%9C%88.mp3
+#EXTINF:0,Turns to Gold
+https://varachack.github.io/Varachack/Waves/Cats%20Corp.%20-%20Turns%20to%20Gold.mp3
+#EXTINF:0,Twisted Light
+https://varachack.github.io/Varachack/Waves/HOME%20-%20Twisted%20Light.mp3
+#EXTINF:0,Urban Resort '89
+https://varachack.github.io/Varachack/Waves/MAITRO%20-%20Urban%20Resort%20'89.mp3
+#EXTINF:0,Vacancy
+https://varachack.github.io/Varachack/Waves/92%20-%20Vacancy.mp3
+#EXTINF:0,Weak
+https://varachack.github.io/Varachack/Waves/Soudiere%20-%20Weak.mp3
+#EXTINF:0,Winter Express
+https://varachack.github.io/Varachack/Waves/MAITRO%20-%20Winter%20Express.mp3
+#EXTINF:0,Yamcha
+https://varachack.github.io/Varachack/Waves/MAITRO%20ft.%20Future%20Kitsune%20-%20Yamcha.mp3
+

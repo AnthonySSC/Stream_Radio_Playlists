@@ -1,0 +1,546 @@
+#EXTM3U
+#EXTINF:0,This playlist was updated
+If you find a song that doesn't work ping me on discord Marshall_vak#5410
+#EXTINF:0,help me
+pls i need it
+#EXTINF:0,9 To 5
+https://marshalls-music.ga/marshalls%20mixtape/9%20To%205.mp3
+#EXTINF:0,80s Baby by New Kids On The Block
+https://marshalls-music.ga/marshalls%20mixtape/80s%20Baby%20by%20New%20Kids%20On%20The%20Block.mp3
+#EXTINF:0,99 Luftballons
+https://marshalls-music.ga/marshalls%20mixtape/99%20Luftballons.mp3
+#EXTINF:0,1999
+https://marshalls-music.ga/marshalls%20mixtape/1999.mp3
+#EXTINF:0,A Thousand Miles
+https://marshalls-music.ga/marshalls%20mixtape/A%20Thousand%20Miles.mp3
+#EXTINF:0,Africa
+https://marshalls-music.ga/marshalls%20mixtape/Africa.mp3
+#EXTINF:0,All Night Long
+https://marshalls-music.ga/marshalls%20mixtape/All%20Night%20Long.mp3
+#EXTINF:0,All Star
+https://marshalls-music.ga/marshalls%20mixtape/All%20Star.mp3
+#EXTINF:0,Always On My Mind
+https://marshalls-music.ga/marshalls%20mixtape/Always%20On%20My%20Mind.mp3
+#EXTINF:0,American Pie
+https://marshalls-music.ga/marshalls%20mixtape/American%20Pie.mp3
+#EXTINF:0,Anaconda
+https://marshalls-music.ga/marshalls%20mixtape/Anaconda.mp3
+#EXTINF:0,And The Beat Goes On
+https://marshalls-music.ga/marshalls%20mixtape/And%20The%20Beat%20Goes%20On.mp3
+#EXTINF:0,Another One Bites the Dust
+https://marshalls-music.ga/marshalls%20mixtape/Another%20One%20Bites%20the%20Dust.mp3
+#EXTINF:0,Apache
+https://marshalls-music.ga/marshalls%20mixtape/Apache.mp3
+#EXTINF:0,Apple Bottom Jeans
+https://marshalls-music.ga/marshalls%20mixtape/apple%20bottom%20jeans.mp3
+#EXTINF:0,Axel F
+https://marshalls-music.ga/marshalls%20mixtape/Axel%20F.mp3
+#EXTINF:0,Back In Black
+https://marshalls-music.ga/marshalls%20mixtape/Back%20In%20Black.mp3
+#EXTINF:0,Bad Reputation
+https://marshalls-music.ga/marshalls%20mixtape/Bad%20Reputation.mp3
+#EXTINF:0,Beat It
+https://marshalls-music.ga/marshalls%20mixtape/Beat%20It.mp3
+#EXTINF:0,Billie Jean
+https://marshalls-music.ga/marshalls%20mixtape/Billie%20Jean.mp3
+#EXTINF:0,Bird is the Word
+https://marshalls-music.ga/marshalls%20mixtape/Bird%20is%20the%20Word.mp3
+#EXTINF:0,Black Betty
+https://marshalls-music.ga/marshalls%20mixtape/Black%20Betty.mp3
+#EXTINF:0,Black or White
+https://marshalls-music.ga/marshalls%20mixtape/Black%20or%20White.mp3
+#EXTINF:0,Bohemian Rhapsody
+https://marshalls-music.ga/marshalls%20mixtape/Bohemian%20Rhapsody.mp3
+#EXTINF:0,Born In The U.S.A.
+https://marshalls-music.ga/marshalls%20mixtape/Born%20In%20The%20U.S.A..mp3
+#EXTINF:0,Born To Be Wild
+https://marshalls-music.ga/marshalls%20mixtape/Born%20To%20Be%20Wild.mp3
+#EXTINF:0,Boulevard Of Broken Dreams
+https://marshalls-music.ga/marshalls%20mixtape/Boulevard%20Of%20Broken%20Dreams.mp3
+#EXTINF:0,Break My Stride
+https://marshalls-music.ga/marshalls%20mixtape/Break%20My%20Stride.mp3
+#EXTINF:0,Brick House
+https://marshalls-music.ga/marshalls%20mixtape/Brick%20House.mp3
+#EXTINF:0,Bring Me To Life
+https://marshalls-music.ga/marshalls%20mixtape/Bring%20Me%20To%20Life.mp3
+#EXTINF:0,Bust A Move
+https://marshalls-music.ga/marshalls%20mixtape/Bust%20A%20Move.mp3
+#EXTINF:0,Call Me
+https://marshalls-music.ga/marshalls%20mixtape/Call%20Me.mp3
+#EXTINF:0,Can You Feel It
+https://marshalls-music.ga/marshalls%20mixtape/Can%20You%20Feel%20It.mp3
+#EXTINF:0,Car Wash Song
+https://marshalls-music.ga/marshalls%20mixtape/Car%20Wash%20Song.mp3
+#EXTINF:0,Careless Whisper
+https://marshalls-music.ga/marshalls%20mixtape/Careless%20Whisper.mp3
+#EXTINF:0,Carry On Wayward Son
+https://marshalls-music.ga/marshalls%20mixtape/Carry%20On%20Wayward%20Son.mp3
+#EXTINF:0,Cars
+https://marshalls-music.ga/marshalls%20mixtape/Cars.mp3
+#EXTINF:0,Celebration
+https://marshalls-music.ga/marshalls%20mixtape/Celebration.mp3
+#EXTINF:0,Centerfold
+https://marshalls-music.ga/marshalls%20mixtape/Centerfold.mp3
+#EXTINF:0,Children's Story
+https://marshalls-music.ga/marshalls%20mixtape/Children%27s%20Story.mp3
+#EXTINF:0,Cold As Ice
+https://marshalls-music.ga/marshalls%20mixtape/Cold%20As%20Ice.mp3
+#EXTINF:0,Come On Eileen!
+https://marshalls-music.ga/marshalls%20mixtape/Come%20On%20Eileen%21.mp3
+#EXTINF:0,Cotton Eye Joe
+https://marshalls-music.ga/marshalls%20mixtape/Cotton%20Eye%20Joe.mp3
+#EXTINF:0,Crazy Little Thing Called Love
+https://marshalls-music.ga/marshalls%20mixtape/Crazy%20Little%20Thing%20Called%20Love.mp3
+#EXTINF:0,Crazy Train
+https://marshalls-music.ga/marshalls%20mixtape/Crazy%20Train.mp3
+#EXTINF:0,Cruel Summer
+https://marshalls-music.ga/marshalls%20mixtape/Cruel%20Summer.mp3
+#EXTINF:0,Cum On Feel The Noize
+https://marshalls-music.ga/marshalls%20mixtape/Cum%20On%20Feel%20The%20Noize.mp3
+#EXTINF:0,Dance Hall Days
+https://marshalls-music.ga/marshalls%20mixtape/Dance%20Hall%20Days.mp3
+#EXTINF:0,Dancing In the Dark
+https://marshalls-music.ga/marshalls%20mixtape/Dancing%20In%20the%20Dark.mp3
+#EXTINF:0,Dancing Queen
+https://marshalls-music.ga/marshalls%20mixtape/Dancing%20Queen.mp3
+#EXTINF:0,Danger Zone
+https://marshalls-music.ga/marshalls%20mixtape/Danger%20Zone.mp3
+#EXTINF:0,Dead Man's Party
+https://marshalls-music.ga/marshalls%20mixtape/Dead%20Man%27s%20Party.mp3
+#EXTINF:0,Don't Bring Me Down
+https://marshalls-music.ga/marshalls%20mixtape/Don%27t%20Bring%20Me%20Down.mp3
+#EXTINF:0,Don't Stop 'Til You Get Enough
+https://marshalls-music.ga/marshalls%20mixtape/Don%27t%20Stop%20%27Til%20You%20Get%20Enough.mp3
+#EXTINF:0,Don't Stop Believin
+https://marshalls-music.ga/marshalls%20mixtape/Don%27t%20Stop%20Believin.mp3
+#EXTINF:0,Don't Stop Me Now
+https://marshalls-music.ga/marshalls%20mixtape/Don%27t%20Stop%20Me%20Now.mp3
+#EXTINF:0,Don't worry be Happy
+https://marshalls-music.ga/marshalls%20mixtape/Don%27t%20worry%20be%20Happy.mp3
+#EXTINF:0,Don't You (Forget About Me)
+https://marshalls-music.ga/marshalls%20mixtape/Don%27t%20You%20%28Forget%20About%20Me%29.mp3
+#EXTINF:0,Don't You Want Me
+https://marshalls-music.ga/marshalls%20mixtape/Don%27t%20You%20Want%20Me.mp3
+#EXTINF:0,Down Under
+https://marshalls-music.ga/marshalls%20mixtape/Down%20Under.mp3
+#EXTINF:0,Dude (Looks Like A Lady)
+https://marshalls-music.ga/marshalls%20mixtape/Dude%20%28Looks%20Like%20A%20Lady%29.mp3
+#EXTINF:0,El Lute Gotta Go Home
+https://marshalls-music.ga/marshalls%20mixtape/El%20Lute%E2%81%84Gotta%20Go%20Home.mp3
+#EXTINF:0,Electric avenue
+https://marshalls-music.ga/marshalls%20mixtape/Electric%20avenue.mp3
+#EXTINF:0,Enjoy the Silence
+https://marshalls-music.ga/marshalls%20mixtape/Enjoy%20the%20Silence.mp3
+#EXTINF:0,Electric Boogie
+https://marshalls-music.ga/marshalls%20mixtape/Electric%20Boogie.mp3
+#EXTINF:0,Every Breath You Take
+https://marshalls-music.ga/marshalls%20mixtape/Every%20Breath%20You%20Take.mp3
+#EXTINF:0,Every Little Thing She Does Is Magic
+https://marshalls-music.ga/marshalls%20mixtape/Every%20Little%20Thing%20She%20Does%20Is%20Magic.mp3
+#EXTINF:0,Everybody Dance
+https://marshalls-music.ga/marshalls%20mixtape/Everybody%20Dance.mp3
+#EXTINF:0,Everybody Wants To Rule The World
+https://marshalls-music.ga/marshalls%20mixtape/Everybody%20Wants%20To%20Rule%20The%20World.mp3
+#EXTINF:0,Everything's Gonna Be Alright
+https://marshalls-music.ga/marshalls%20mixtape/Everything%27s%20Gonna%20Be%20Alright.mp3
+#EXTINF:0,Eye Of The Tiger
+https://marshalls-music.ga/marshalls%20mixtape/Eye%20Of%20The%20Tiger.mp3
+#EXTINF:0,Faith
+https://marshalls-music.ga/marshalls%20mixtape/Faith.mp3
+#EXTINF:0,Fame
+https://marshalls-music.ga/marshalls%20mixtape/Fame.mp3
+#EXTINF:0,Fireflies
+https://marshalls-music.ga/marshalls%20mixtape/Fireflies.mp3
+#EXTINF:0,Footloose
+https://marshalls-music.ga/marshalls%20mixtape/Footloose.mp3
+#EXTINF:0,Free Fallin'
+https://marshalls-music.ga/marshalls%20mixtape/Free%20Fallin%27.mp3
+#EXTINF:0,Freeway Of Love
+https://marshalls-music.ga/marshalls%20mixtape/Freeway%20Of%20Love.mp3
+#EXTINF:0,Fresh
+https://marshalls-music.ga/marshalls%20mixtape/Fresh.mp3
+#EXTINF:0,Funky Town
+https://marshalls-music.ga/marshalls%20mixtape/Funky%20Town.mp3
+#EXTINF:0,Get Down On It
+https://marshalls-music.ga/marshalls%20mixtape/Get%20Down%20On%20It.mp3
+#EXTINF:0,Get Outta My Dreams, Get Into my Car
+https://marshalls-music.ga/marshalls%20mixtape/Get%20Outta%20My%20Dreams%2C%20Get%20Into%20My%20Car.mp3
+#EXTINF:0,Girls Just Want to Have Fun
+https://marshalls-music.ga/marshalls%20mixtape/Girls%20Just%20Want%20to%20Have%20Fun.mp3
+#EXTINF:0,Give It Up
+https://marshalls-music.ga/marshalls%20mixtape/Give%20It%20Up.mp3
+#EXTINF:0,Gloria
+https://marshalls-music.ga/marshalls%20mixtape/Gloria.mp3
+#EXTINF:0,Gold
+https://marshalls-music.ga/marshalls%20mixtape/Gold.mp3
+#EXTINF:0,Good Morning
+https://marshalls-music.ga/marshalls%20mixtape/Good%20Morning.mp3
+#EXTINF:0,Goodbye Mr A
+https://marshalls-music.ga/marshalls%20mixtape/Goodbye%20Mr%20A.mp3
+#EXTINF:0,Heart Of Glass
+https://marshalls-music.ga/marshalls%20mixtape/Heart%20Of%20Glass.mp3
+#EXTINF:0,Heaven Is A Place On Earth
+https://marshalls-music.ga/marshalls%20mixtape/Heaven%20Is%20A%20Place%20On%20Earth.mp3
+#EXTINF:0,Here I Go Again
+https://marshalls-music.ga/marshalls%20mixtape/Here%20I%20Go%20Again.mp3
+#EXTINF:0,Hey Ya!
+https://marshalls-music.ga/marshalls%20mixtape/Hey%20Ya%21.mp3
+#EXTINF:0,HEYYEYAAEYAAAEYAEYAA
+https://marshalls-music.ga/marshalls%20mixtape/HEYYEYAAEYAAAEYAEYAA.mp3
+#EXTINF:0,Higher Love
+https://marshalls-music.ga/marshalls%20mixtape/Higher%20Love.mp3
+#EXTINF:0,Hip To Be Square
+https://marshalls-music.ga/marshalls%20mixtape/Hip%20To%20Be%20Square.mp3
+#EXTINF:0,Hit Me With Your Best Shot
+https://marshalls-music.ga/marshalls%20mixtape/Hit%20Me%20With%20Your%20Best%20Shot.mp3
+#EXTINF:0,Holding Out For A Hero
+https://marshalls-music.ga/marshalls%20mixtape/Holding%20Out%20For%20A%20Hero.mp3
+#EXTINF:0,Holiday
+https://marshalls-music.ga/marshalls%20mixtape/Holiday.mp3
+#EXTINF:0,Hooked on a Feeling
+https://marshalls-music.ga/marshalls%20mixtape/Hooked%20on%20a%20Feeling.mp3
+#EXTINF:0,Hotel California
+https://marshalls-music.ga/marshalls%20mixtape/Hotel%20California.mp3
+#EXTINF:0,How Will I Know
+https://marshalls-music.ga/marshalls%20mixtape/How%20Will%20I%20Know.mp3
+#EXTINF:0,Hungry Eyes
+https://marshalls-music.ga/marshalls%20mixtape/Hungry%20Eyes.mp3
+#EXTINF:0,Hungry Like the Wolf (2009 Remaster)
+https://marshalls-music.ga/marshalls%20mixtape/Hungry%20Like%20the%20Wolf%20%282009%20Remaster%29.mp3
+#EXTINF:0,I Just Died In Your Arms Tonight
+https://marshalls-music.ga/marshalls%20mixtape/I%20Just%20Died%20In%20Your%20Arms%20Tonight.mp3
+#EXTINF:0,I Love Rock 'n' Roll
+https://marshalls-music.ga/marshalls%20mixtape/I%20Love%20Rock%20%27n%27%20Roll.mp3
+#EXTINF:0,I Melt With You
+https://marshalls-music.ga/marshalls%20mixtape/I%20Melt%20With%20You.mp3
+#EXTINF:0,I Ran (So Far Away)
+https://marshalls-music.ga/marshalls%20mixtape/I%20Ran%20%28So%20Far%20Away%29.mp3
+#EXTINF:0,I Wanna Dance With Somebody
+https://marshalls-music.ga/marshalls%20mixtape/I%20Wanna%20Dance%20With%20Somebody.mp3
+#EXTINF:0,I Wanna Rock
+https://marshalls-music.ga/marshalls%20mixtape/I%20Wanna%20Rock.mp3
+#EXTINF:0,I Want You Back
+https://marshalls-music.ga/marshalls%20mixtape/I%20Want%20You%20Back.mp3
+#EXTINF:0,I Want You To Want Me
+https://marshalls-music.ga/marshalls%20mixtape/I%20Want%20You%20To%20Want%20Me.mp3
+#EXTINF:0,I Will Survive
+https://marshalls-music.ga/marshalls%20mixtape/I%20Will%20Survive.mp3
+#EXTINF:0,I wish
+https://marshalls-music.ga/marshalls%20mixtape/I%20wish.mp3
+#EXTINF:0,I'm a Believer
+https://marshalls-music.ga/marshalls%20mixtape/I%27m%20a%20Believer.mp3
+#EXTINF:0,I'm Gonna Be (500 Miles)
+https://marshalls-music.ga/marshalls%20mixtape/I%27m%20Gonna%20Be%20%28500%20Miles%29.mp3
+#EXTINF:0,I'm so excited
+https://marshalls-music.ga/marshalls%20mixtape/I%27m%20so%20excited.mp3
+#EXTINF:0,I'm Still Standing
+https://marshalls-music.ga/marshalls%20mixtape/I%27m%20Still%20Standing.mp3
+#EXTINF:0,I've Got The Power
+https://marshalls-music.ga/marshalls%20mixtape/I%27ve%20Got%20The%20Power.mp3
+#EXTINF:0,Ice Ice Baby
+https://marshalls-music.ga/marshalls%20mixtape/Ice%20Ice%20Baby.mp3
+#EXTINF:0,In The Summertime
+https://marshalls-music.ga/marshalls%20mixtape/In%20The%20Summertime.mp3
+#EXTINF:0,It Takes Two
+https://marshalls-music.ga/marshalls%20mixtape/It%20Takes%20Two.mp3
+#EXTINF:0,It's raining men
+https://marshalls-music.ga/marshalls%20mixtape/It%27s%20raining%20men.mp3
+#EXTINF:0,It's Tricky
+https://marshalls-music.ga/marshalls%20mixtape/It%27s%20Tricky.mp3
+#EXTINF:0,Jack & Diane
+https://marshalls-music.ga/marshalls%20mixtape/Jack%20%26%20Diane.mp3
+#EXTINF:0,Jessie's Girl
+https://marshalls-music.ga/marshalls%20mixtape/Jessie%27s%20Girl.mp3
+#EXTINF:0,Johnny B. Goode
+https://marshalls-music.ga/marshalls%20mixtape/Johnny%20B.%20Goode.mp3
+#EXTINF:0,Jump (For My love)
+https://marshalls-music.ga/marshalls%20mixtape/Jump%20%28For%20My%20love%29.mp3
+#EXTINF:0,Jump
+https://marshalls-music.ga/marshalls%20mixtape/Jump.mp3
+#EXTINF:0,Jungle Love
+https://marshalls-music.ga/marshalls%20mixtape/Jungle%20Love.mp3
+#EXTINF:0,Just Can't Get Enough
+https://marshalls-music.ga/marshalls%20mixtape/Just%20Can%27t%20Get%20Enough.mp3
+#EXTINF:0,Karma Chameleon
+https://marshalls-music.ga/marshalls%20mixtape/Karma%20Chameleon.mp3
+#EXTINF:0,Kids in America (1981)
+https://marshalls-music.ga/marshalls%20mixtape/Kids%20in%20America%20%281981%29.mp3
+#EXTINF:0,Kiss
+https://marshalls-music.ga/marshalls%20mixtape/Kiss.mp3
+#EXTINF:0,Kung Fu Fighting
+https://marshalls-music.ga/marshalls%20mixtape/Kung%20Fu%20Fighting%20.mp3
+#EXTINF:0,LA BAMBA
+https://marshalls-music.ga/marshalls%20mixtape/LA%20BAMBA.mp3
+#EXTINF:0,Let it Whip
+https://marshalls-music.ga/marshalls%20mixtape/LET%20IT%20WHIP.mp3
+#EXTINF:0,Life Is A Highway
+https://marshalls-music.ga/marshalls%20mixtape/Life%20Is%20A%20Highway.mp3
+#EXTINF:0,Let's Dance
+https://marshalls-music.ga/marshalls%20mixtape/Let%27s%20Dance.mp3
+#EXTINF:0,Let's Groove
+https://marshalls-music.ga/marshalls%20mixtape/Let%27s%20Groove.mp3
+#EXTINF:0,Let's Hear It for the Boy
+https://marshalls-music.ga/marshalls%20mixtape/Let%27s%20Hear%20It%20for%20the%20Boy.mp3
+#EXTINF:0,Like A Prayer
+https://marshalls-music.ga/marshalls%20mixtape/Like%20A%20Prayer.mp3
+#EXTINF:0,Loco in Acapulco
+https://marshalls-music.ga/marshalls%20mixtape/Loco%20in%20Acapulco.mp3
+#EXTINF:0,Love In An Elevator
+https://marshalls-music.ga/marshalls%20mixtape/Love%20In%20An%20Elevator.mp3
+#EXTINF:0,Love Is A Battlefield
+https://marshalls-music.ga/marshalls%20mixtape/Love%20Is%20A%20Battlefield.mp3
+#EXTINF:0,Love Shack
+https://marshalls-music.ga/marshalls%20mixtape/Love%20Shack.mp3
+#EXTINF:0,Maneater
+https://marshalls-music.ga/marshalls%20mixtape/Maneater.mp3
+#EXTINF:0,Maniac
+https://marshalls-music.ga/marshalls%20mixtape/Maniac.mp3
+#EXTINF:0,Manic Monday
+https://marshalls-music.ga/marshalls%20mixtape/Manic%20Monday.mp3
+#EXTINF:0,Material Girl
+https://marshalls-music.ga/marshalls%20mixtape/Material%20Girl.mp3
+#EXTINF:0,michael jackson x mark ronson diamonds are invincible
+https://marshalls-music.ga/marshalls%20mixtape/Michael%20Jackson%20x%20Mark%20Ronson_%20Diamonds%20are%20Invincible.mp3
+#EXTINF:0,Modern Love
+https://marshalls-music.ga/marshalls%20mixtape/Modern%20Love.mp3
+#EXTINF:0,Mony Mony
+https://marshalls-music.ga/marshalls%20mixtape/Mony%20Mony.mp3
+#EXTINF:0,My Sharona
+https://marshalls-music.ga/marshalls%20mixtape/My%20Sharona.mp3
+#EXTINF:0,Need You Tonight
+https://marshalls-music.ga/marshalls%20mixtape/Need%20You%20Tonight.mp3
+#EXTINF:0,Never Gonna Give You Up
+https://marshalls-music.ga/marshalls%20mixtape/Never%20Gonna%20Give%20You%20Up%20by%20Rick%20Astley.mp3
+#EXTINF:0,Old Time Rock n Roll
+https://marshalls-music.ga/marshalls%20mixtape/Old%20Time%20Rock%20n%20Roll.mp3
+#EXTINF:0,On A Prayer
+https://marshalls-music.ga/marshalls%20mixtape/On%20A%20Prayer.mp3
+#EXTINF:0,Once in a Lifetime
+https://marshalls-music.ga/marshalls%20mixtape/Once%20in%20a%20Lifetime.mp3
+#EXTINF:0,Our House
+https://marshalls-music.ga/marshalls%20mixtape/Our%20House.mp3
+#EXTINF:0,Panama
+https://marshalls-music.ga/marshalls%20mixtape/Panama.mp3
+#EXTINF:0,Paradise City
+https://marshalls-music.ga/marshalls%20mixtape/Paradise%20City.mp3
+#EXTINF:0,People Are People
+https://marshalls-music.ga/marshalls%20mixtape/People%20Are%20People.mp3
+#EXTINF:0,Piano Man
+https://marshalls-music.ga/marshalls%20mixtape/Piano%20Man.mp3
+#EXTINF:0,Play That Funky Music
+https://marshalls-music.ga/marshalls%20mixtape/Play%20That%20Funky%20Music.mp3
+#EXTINF:0,Poison by Bell Biv DeVoe
+https://marshalls-music.ga/marshalls%20mixtape/Poison%20by%20%20Bell%20Biv%20DeVoe.mp3
+#EXTINF:0,Poison
+https://marshalls-music.ga/marshalls%20mixtape/Poison.mp3
+#EXTINF:0,Pour Some Sugar On Me
+https://marshalls-music.ga/marshalls%20mixtape/Pour%20Some%20Sugar%20On%20Me.mp3
+#EXTINF:0,Pump Up The Jam
+https://marshalls-music.ga/marshalls%20mixtape/Pump%20Up%20The%20Jam.mp3
+#EXTINF:0,Pumped up Kicks
+https://marshalls-music.ga/marshalls%20mixtape/Pumped%20up%20Kicks.mp3
+#EXTINF:0,Push It
+https://marshalls-music.ga/marshalls%20mixtape/Push%20It.mp3
+#EXTINF:0,Rap God
+https://marshalls-music.ga/marshalls%20mixtape/Rap%20God.mp3
+#EXTINF:0,Raspberry Beret
+https://marshalls-music.ga/marshalls%20mixtape/Raspberry%20Beret.mp3
+#EXTINF:0,Rasputin
+https://marshalls-music.ga/marshalls%20mixtape/Rasputin.mp3
+#EXTINF:0,Red Red Wine
+https://marshalls-music.ga/marshalls%20mixtape/Red%20Red%20Wine.mp3
+#EXTINF:0,Relax
+https://marshalls-music.ga/marshalls%20mixtape/Relax.mp3
+#EXTINF:0,Roam
+https://marshalls-music.ga/marshalls%20mixtape/Roam.mp3
+#EXTINF:0,Rock Lobster
+https://marshalls-music.ga/marshalls%20mixtape/Rock%20Lobster.mp3
+#EXTINF:0,Rock This Town
+https://marshalls-music.ga/marshalls%20mixtape/Rock%20This%20Town.mp3
+#EXTINF:0,Rock You Like A Hurricane
+https://marshalls-music.ga/marshalls%20mixtape/Rock%20You%20Like%20A%20Hurricane.mp3
+#EXTINF:0,Rockin' Robin
+https://marshalls-music.ga/marshalls%20mixtape/Rockin%27%20Robin.mp3
+#EXTINF:0,Rosanna by Toto
+https://marshalls-music.ga/marshalls%20mixtape/Rosanna%20by%20Toto.mp3
+#EXTINF:0,Running in the 90's
+https://marshalls-music.ga/marshalls%20mixtape/Running%20in%20the%2090%27s.mp3
+#EXTINF:0,Safety Dance
+https://marshalls-music.ga/marshalls%20mixtape/Safety%20Dance.mp3
+#EXTINF:0,Saturday Night's Alright For Fighting
+https://marshalls-music.ga/marshalls%20mixtape/Saturday%20Night%27s%20Alright%20For%20Fighting.mp3
+#EXTINF:0,Scatman
+https://marshalls-music.ga/marshalls%20mixtape/Scatman.mp3
+#EXTINF:0,Separate Ways
+https://marshalls-music.ga/marshalls%20mixtape/Separate%20Ways.mp3
+#EXTINF:0,September
+https://marshalls-music.ga/marshalls%20mixtape/September.mp3
+#EXTINF:0,Shake it up
+https://marshalls-music.ga/marshalls%20mixtape/Shake%20it%20up.mp3
+#EXTINF:0,She Blinded Me With Science
+https://marshalls-music.ga/marshalls%20mixtape/She%20Blinded%20Me%20With%20Science.mp3
+#EXTINF:0,Should I Stay or Should I Go
+https://marshalls-music.ga/marshalls%20mixtape/Should%20I%20Stay%20or%20Should%20I%20Go.mp3
+#EXTINF:0,Smoke On The Water
+https://marshalls-music.ga/marshalls%20mixtape/Smoke%20On%20The%20Water.mp3
+#EXTINF:0,Somebody's Watching Me
+https://marshalls-music.ga/marshalls%20mixtape/Somebody%27s%20Watching%20Me.mp3
+#EXTINF:0,start me up
+https://marshalls-music.ga/marshalls%20mixtape/start%20me%20up.mp3
+#EXTINF:0,St Elmos Fire, Man in Motion
+https://marshalls-music.ga/marshalls%20mixtape/St%20Elmos%20Fire%2C%20Man%20in%20Motion.mp3
+#EXTINF:0,Stayin' Alive
+https://marshalls-music.ga/marshalls%20mixtape/Stayin%27%20Alive.mp3
+#EXTINF:0,Summer Of '69
+https://marshalls-music.ga/marshalls%20mixtape/Summer%20Of%20%2769.mp3
+#EXTINF:0,Super Freak
+https://marshalls-music.ga/marshalls%20mixtape/Super%20Freak.mp3
+#EXTINF:0,Superstition
+https://marshalls-music.ga/marshalls%20mixtape/Superstition.mp3
+#EXTINF:0,Sussudio
+https://marshalls-music.ga/marshalls%20mixtape/Sussudio.mp3
+#EXTINF:0,Sweet Caroline
+https://marshalls-music.ga/marshalls%20mixtape/Sweet%20Caroline.mp3
+#EXTINF:0,Sweet Child O' Mine
+https://marshalls-music.ga/marshalls%20mixtape/Sweet%20Child%20O%27%20Mine.mp3
+#EXTINF:0,Sweet Dreams (Are Made Of This)
+https://marshalls-music.ga/marshalls%20mixtape/Sweet%20Dreams%20%28Are%20Made%20Of%20This%29.mp3
+#EXTINF:0,Sweet Emotion
+https://marshalls-music.ga/marshalls%20mixtape/Sweet%20Emotion.mp3
+#EXTINF:0,Sweet Home Alabama
+https://marshalls-music.ga/marshalls%20mixtape/Sweet%20Home%20Alabama.mp3
+#EXTINF:0,Tainted Love
+https://marshalls-music.ga/marshalls%20mixtape/Tainted%20Love.mp3
+#EXTINF:0,Take Me Home (Country Roads)
+https://marshalls-music.ga/marshalls%20mixtape/Take%20Me%20Home%20%28Country%20Roads%29.mp3
+#EXTINF:0,Take Me Home Tonight
+https://marshalls-music.ga/marshalls%20mixtape/Take%20Me%20Home%20Tonight.mp3
+#EXTINF:0,Take My Breath Away
+https://marshalls-music.ga/marshalls%20mixtape/Take%20My%20Breath%20Away.mp3
+#EXTINF:0,Take On Me by a-ha
+https://marshalls-music.ga/marshalls%20mixtape/Take%20On%20Me%20by%20a-ha.mp3
+#EXTINF:0,Talking in Your Sleep
+https://marshalls-music.ga/marshalls%20mixtape/Talking%20in%20Your%20Sleep.mp3
+#EXTINF:0,Tell It to My Heart
+https://marshalls-music.ga/marshalls%20mixtape/Tell%20It%20to%20My%20Heart.mp3
+#EXTINF:0,That's The Way (I Like It)
+https://marshalls-music.ga/marshalls%20mixtape/That%27s%20The%20Way.mp3
+#EXTINF:0,The Best
+https://marshalls-music.ga/marshalls%20mixtape/The%20Best.mp3
+#EXTINF:0,The Boys of Summer
+https://marshalls-music.ga/marshalls%20mixtape/The%20Boys%20of%20Summer.mp3
+#EXTINF:0,The Devil Went Down to Georgia
+https://marshalls-music.ga/marshalls%20mixtape/The%20Devil%20Went%20Down%20to%20Georgia.mp3
+#EXTINF:0,The Final Countdown
+https://marshalls-music.ga/marshalls%20mixtape/The%20Final%20Countdown.mp3
+#EXTINF:0,The fresh prince of bel air theme song
+https://marshalls-music.ga/marshalls%20mixtape/The%20Fresh%20Prince%20Of%20Bel%20Air%20Theme%20Song.mp3
+#EXTINF:0,The Humpty Dance
+https://marshalls-music.ga/marshalls%20mixtape/The%20Humpty%20Dance.mp3
+#EXTINF:0,The Hustle
+https://marshalls-music.ga/marshalls%20mixtape/The%20Hustle.mp3
+#EXTINF:0,The Impression That I Get
+https://marshalls-music.ga/marshalls%20mixtape/The%20Impression%20That%20I%20Get.mp3
+#EXTINF:0,The Lion Sleeps Tonight
+https://marshalls-music.ga/marshalls%20mixtape/The%20Lion%20Sleeps%20Tonight.mp3
+#EXTINF:0,The Look
+https://marshalls-music.ga/marshalls%20mixtape/The%20Look.mp3
+#EXTINF:0,The Pina Colada Song
+https://marshalls-music.ga/marshalls%20mixtape/The%20Pina%20Colada%20Song.mp3
+#EXTINF:0,The Power Of Love
+https://marshalls-music.ga/marshalls%20mixtape/The%20Power%20Of%20Love.mp3
+#EXTINF:0,This Is How We Do It
+https://marshalls-music.ga/marshalls%20mixtape/This%20Is%20How%20We%20Do%20It.mp3
+#EXTINF:0,Thriller
+https://marshalls-music.ga/marshalls%20mixtape/Thriller.mp3
+#EXTINF:0,Thunderstruck
+https://marshalls-music.ga/marshalls%20mixtape/Thunderstruck.mp3
+#EXTINF:0,Time of my Life (Final Dance)
+https://marshalls-music.ga/marshalls%20mixtape/Time%20of%20my%20Life%20%28Final%20Dance%29.mp3
+#EXTINF:0,Together Forever
+https://marshalls-music.ga/marshalls%20mixtape/Together%20Forever.mp3
+#EXTINF:0,True
+https://marshalls-music.ga/marshalls%20mixtape/True.mp3
+#EXTINF:0,Tubthumping
+https://marshalls-music.ga/marshalls%20mixtape/Tubthumping.mp3
+#EXTINF:0,Two Princes
+https://marshalls-music.ga/marshalls%20mixtape/Two%20Princes.mp3
+#EXTINF:0,U Can't Touch This
+https://marshalls-music.ga/marshalls%20mixtape/U%20Can%27t%20Touch%20This.mp3
+#EXTINF:0,Under Pressure
+https://marshalls-music.ga/marshalls%20mixtape/Under%20Pressure.mp3
+#EXTINF:0,Uptown Girl
+https://marshalls-music.ga/marshalls%20mixtape/Uptown%20Girl.mp3
+#EXTINF:0,Venus
+https://marshalls-music.ga/marshalls%20mixtape/Venus.mp3
+#EXTINF:0,Video killed the radio star
+https://marshalls-music.ga/marshalls%20mixtape/Video%20killed%20the%20radio%20star%201979.mp3
+#EXTINF:0,Wake Me Up Before You Go Go
+https://marshalls-music.ga/marshalls%20mixtape/Wake%20Me%20Up%20Before%20You%20Go%20Go.mp3
+#EXTINF:0,Walk Like an Egyptian
+https://marshalls-music.ga/marshalls%20mixtape/Walk%20Like%20an%20Egyptian.mp3
+#EXTINF:0,Walk Of Life
+https://marshalls-music.ga/marshalls%20mixtape/Walk%20Of%20Life.mp3
+#EXTINF:0,Walk This Way
+https://marshalls-music.ga/marshalls%20mixtape/Walk%20This%20Way.mp3
+#EXTINF:0,Walking On Sunshine
+https://marshalls-music.ga/marshalls%20mixtape/Walking%20On%20Sunshine.mp3
+#EXTINF:0,We are Number One
+https://marshalls-music.ga/marshalls%20mixtape/We%20are%20Number%20One.mp3
+#EXTINF:0,We Built This City
+https://marshalls-music.ga/marshalls%20mixtape/We%20Built%20This%20City.mp3
+#EXTINF:0,We Didn't Start the Fire
+https://marshalls-music.ga/marshalls%20mixtape/We%20Didn%27t%20Start%20the%20Fire.mp3
+#EXTINF:0,We Go Together
+https://marshalls-music.ga/marshalls%20mixtape/We%20Go%20Together.mp3
+#EXTINF:0,We're not gonna take it
+https://marshalls-music.ga/marshalls%20mixtape/We%27re%20not%20gonna%20take%20it.mp3
+#EXTINF:0,Welcome to the jungle
+https://marshalls-music.ga/marshalls%20mixtape/Welcome%20to%20the%20jungle.mp3
+#EXTINF:0,What I Like About You
+https://marshalls-music.ga/marshalls%20mixtape/What%20I%20Like%20About%20You%20.mp3
+#EXTINF:0,What Is Love
+https://marshalls-music.ga/marshalls%20mixtape/What%20Is%20Love.mp3
+#EXTINF:0,When Doves Cry
+https://marshalls-music.ga/marshalls%20mixtape/When%20Doves%20Cry.mp3
+#EXTINF:0,When I Think of You
+https://marshalls-music.ga/marshalls%20mixtape/When%20I%20Think%20of%20You.mp3
+#EXTINF:0,Whip It
+https://marshalls-music.ga/marshalls%20mixtape/Whip%20It.mp3
+#EXTINF:0,White Wedding Pt 1
+https://marshalls-music.ga/marshalls%20mixtape/White%20Wedding%20Pt%201.mp3
+#EXTINF:0,Who Can It Be Now
+https://marshalls-music.ga/marshalls%20mixtape/Who%20Can%20It%20Be%20Now.mp3
+#EXTINF:0,Wild Thing
+https://marshalls-music.ga/marshalls%20mixtape/Wild%20Thing.mp3
+#EXTINF:0,Wobble
+https://marshalls-music.ga/marshalls%20mixtape/Wobble.mp3
+#EXTINF:0,Wonderwall
+https://marshalls-music.ga/marshalls%20mixtape/Wonderwall.mp3
+#EXTINF:0,Working for the Weekend
+https://marshalls-music.ga/marshalls%20mixtape/Working%20for%20the%20Weekend.mp3
+#EXTINF:0,Wouldn't It Be Nice
+https://marshalls-music.ga/marshalls%20mixtape/Wouldn%27t%20It%20Be%20Nice.mp3
+#EXTINF:0,Y.M.C.A.
+https://marshalls-music.ga/marshalls%20mixtape/Y.M.C.A..mp3
+#EXTINF:0,Yakety Yak
+https://marshalls-music.ga/marshalls%20mixtape/Yakety%20Yak.mp3
+#EXTINF:0,Yeah
+https://marshalls-music.ga/marshalls%20mixtape/Yeah.mp3
+#EXTINF:0,You Can Call Me Al
+https://marshalls-music.ga/marshalls%20mixtape/You%20Can%20Call%20Me%20Al.mp3
+#EXTINF:0,You Can't Hurry Love
+https://marshalls-music.ga/marshalls%20mixtape/You%20Can%27t%20Hurry%20Love.mp3
+#EXTINF:0,You Give Love A Bad Name
+https://marshalls-music.ga/marshalls%20mixtape/You%20Give%20Love%20A%20Bad%20Name.mp3
+#EXTINF:0,You Got It (The Right Stuff)
+https://marshalls-music.ga/marshalls%20mixtape/You%20Got%20It%20%28The%20Right%20Stuff%29.mp3
+#EXTINF:0,You Keep Me Hangin' On
+https://marshalls-music.ga/marshalls%20mixtape/You%20Keep%20Me%20Hangin%27%20On.mp3
+#EXTINF:0,You Make My Dreams
+https://marshalls-music.ga/marshalls%20mixtape/You%20Make%20My%20Dreams.mp3
+#EXTINF:0,You Spin Me Round (Like a Record)
+https://marshalls-music.ga/marshalls%20mixtape/You%20Spin%20Me%20Round%20%28Like%20a%20Record%29.mp3
+#EXTINF:0,Your Love
+https://marshalls-music.ga/marshalls%20mixtape/Your%20Love.mp3
+

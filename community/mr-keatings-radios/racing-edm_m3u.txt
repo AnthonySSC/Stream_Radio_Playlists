@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0,Virtual Riot - Energy Drink
+https://www.dropbox.com/s/wnbt3xuac57bnb6/%5BElectro%20House%5D%20Virtual%20Riot%20-%20Energy%20Drink.mp3?dl=1
+#EXTINF:0,Ephixa & Bossfight - Subside [Monstercat Release]
+https://www.dropbox.com/s/gzh5jifmdj3hrqu/Ephixa%20%26%20Bossfight%20-%20Subside%20%5BMonstercat%20Release%5D.mp3?dl=1
+#EXTINF:0,Noisestorm - Barracuda
+https://www.dropbox.com/s/szvobc6jy5um0nt/Noisestorm%20-%20Barracuda.mp3?dl=1

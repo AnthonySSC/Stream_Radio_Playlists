@@ -47,6 +47,8 @@ https://marshalls-music.ga/marshalls%20mixtape/Billie%20Jean.mp3
 https://marshalls-music.ga/marshalls%20mixtape/Bird%20is%20the%20Word.mp3
 #EXTINF:0,Black Betty
 https://marshalls-music.ga/marshalls%20mixtape/Black%20Betty.mp3
+#EXTINF:0,Black or White
+https://marshalls-music.ga/marshalls%20mixtape/Black%20or%20White.mp3
 #EXTINF:0,Bohemian Rhapsody
 https://marshalls-music.ga/marshalls%20mixtape/Bohemian%20Rhapsody.mp3
 #EXTINF:0,Born In The U.S.A.
@@ -223,6 +225,8 @@ https://marshalls-music.ga/marshalls%20mixtape/I%20Want%20You%20Back.mp3
 https://marshalls-music.ga/marshalls%20mixtape/I%20Want%20You%20To%20Want%20Me.mp3
 #EXTINF:0,I Will Survive
 https://marshalls-music.ga/marshalls%20mixtape/I%20Will%20Survive.mp3
+#EXTINF:0,I wish
+https://marshalls-music.ga/marshalls%20mixtape/I%20wish.mp3
 #EXTINF:0,I'm a Believer
 https://marshalls-music.ga/marshalls%20mixtape/I%27m%20a%20Believer.mp3
 #EXTINF:0,I'm Gonna Be (500 Miles)

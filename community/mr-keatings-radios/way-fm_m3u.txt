@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0,Way FM - Christian Contemporary
+http://wayfm.streamguys1.com/wayw.mp3

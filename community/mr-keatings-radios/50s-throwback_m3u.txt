@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:0,Bobby Darin - Beyond The Sea
+https://www.dropbox.com/s/wllzdf1yge2no28/bobby%20darin%20beyond%20the%20sea.mp3?dl=1
+#EXTINF:0,Bobby Day - Rockin' Robin
+https://www.dropbox.com/s/f0w15jegqt676wl/bobby%20day%20rockin%20robin.mp3?dl=1
+#EXTINF:0,Chordettes - Lollipop
+https://www.dropbox.com/s/i6exzh47t0u8d0s/chordettes%20lollipop.mp3?dl=1
+#EXTINF:0,Chordettes - Mr. Sandman
+https://www.dropbox.com/s/jofud09ijd9sg1i/chordettes%20mr%20sandman.mp3?dl=1
+#EXTINF:0,The Chords - Sh'Boom
+https://www.dropbox.com/s/qa6wrh2tidbhfam/The%20Chords%20-%20Sh-Boom.mp3?dl=1
+#EXTINF:0,Chuck Berry - Johnny B. Goode
+https://www.dropbox.com/s/8x07trmnzpjuxwz/chuck%20berry%20johnny%20b%20goode.mp3?dl=1
+#EXTINF:0,Danny and the Juniors - At The Hop
+https://www.dropbox.com/s/cb9omllz7owhi87/danny%20and%20the%20juniors%20at%20the%20hop.mp3?dl=1
+#EXTINF:0,Dave Brubeck - Take Five
+https://www.dropbox.com/s/8oh3caj3w6hsod5/dave%20brubeck%20take%20five.mp3?dl=1
+#EXTINF:0,Dion - A Teenager in Love
+https://www.dropbox.com/s/ojkadsfln6iijk0/dion%20a%20teenager%20in%20love.mp3?dl=1
+#EXTINF:0,Dion - Wonder Why
+https://www.dropbox.com/s/nqkxdya5y42ehwt/dion%20i%20wonder%20why.mp3?dl=1
+#EXTINF:0,Eddie Chocran - Summertime Blues
+https://www.dropbox.com/s/2ht8iptibn3wj6f/eddie%20chocran%20summertime%20blues.mp3?dl=1
+#EXTINF:0,Elvis Presley - Love Me Tender
+https://www.dropbox.com/s/wmo67r4zzs7cipe/elvis%20presley%20love%20me%20tender.mp3?dl=1
+#EXTINF:0,Elvis Presley -All Shook Up
+https://www.dropbox.com/s/ztv63c9odu6bnf0/elvis%20presley%20all%20shook%20up.mp3?dl=1
+#EXTINF:0,Elvis Presley - Hound Dog
+https://www.dropbox.com/s/jew9ww290wgdw47/elvis%20presley%20hound%20dog.mp3?dl=1
+#EXTINF:0,Everly Brothers - Wake Up Little Susie
+https://www.dropbox.com/s/h62ljzviklp35ao/everly%20brother%20wake%20up%20little%20susie.mp3?dl=1
+#EXTINF:0,Fats Domino - Blueberry Hill
+https://www.dropbox.com/s/te7h35bvz1snqam/fats%20domino%20blueberry%20hill.mp3?dl=1
+#EXTINF:0,Jerry Lee Lewis - Great Balls of Fire
+https://www.dropbox.com/s/g4wq9rtjlqb0pry/jerry%20lee%20lewis%20great%20balls%20of%20fire.mp3?dl=1
+#EXTINF:0,Jerry Lee Lewis - Whole lot of Shakin' Going On
+https://www.dropbox.com/s/nm9lcxuytgeya58/jerry%20lee%20lewis%20%20whole%20lot%20of%20shakin%20going%20on.mp3?dl=1
+#EXTINF:0,Johnny Cash - I Walk the Line
+https://www.dropbox.com/s/q2xu2dzfueus1f2/johnny%20cash%20i%20walk%20the%20line.mp3?dl=1
+#EXTINF:0,Little Richard - Good Golly Miss Molly
+https://www.dropbox.com/s/jvvegqhrhkkvqpt/little%20richard%20good%20golly%20miss%20molly.mp3?dl=1
+#EXTINF:0,Little Richard - Long Tall Sally
+https://www.dropbox.com/s/gqy188e7su602q5/little%20richard%20long%20tall%20sally.mp3?dl=1
+#EXTINF:0,Ritchie Valens - Framed
+https://www.dropbox.com/s/l9j6gndrx6njl50/ritchie%20valens%20framed.mp3?dl=1
+#EXTINF:0,Ritchie Valens - La Bamba
+https://www.dropbox.com/s/s0xnib9awcsgs8p/ritchie%20valens%20la%20bamba.mp3?dl=1
+#EXTINF:0,The Coasters - Yakety Yak
+https://www.dropbox.com/s/8o45533dbx9kgm1/the%20coasters%20yakety%20yak.mp3?dl=1
+#EXTINF:0,The Five Satins - In The Still of the Night
+https://www.dropbox.com/s/68udp5q1gmljefs/the%20five%20satins%20in%20the%20the%20still%20of%20the%20night.mp3?dl=1
+#EXTINF:0,The Flamingos - I Only Have Eyes for You
+https://www.dropbox.com/s/pu9s85nhixyrnk3/the%20flamingos%20i%20only%20have%20eyes%20for%20you.mp3?dl=1
+#EXTINF:0,Thurston Harris - Little Bitty Pretty One
+https://www.dropbox.com/s/7lmzf1n70lajfqf/thurston%20harris%20little%20bitty%20pretty%20one.mp3?dl=1

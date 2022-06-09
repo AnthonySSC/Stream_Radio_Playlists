@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0,Beer Never Broke My Heart - Luke Combs
+https://www.dl.dropboxusercontent.com/s/cmjlvvkn500bn0x/Luke%20Combs%20-%20Beer%20Never%20Broke%20My%20Heart%20%28Audio%29.mp3?dl=1
+#EXTINF:0,Cold As You - Luke Combs
+https://www.dl.dropboxusercontent.com/s/gtpms64w8kk4xxm/Luke%20Combs%20-%20Cold%20As%20You%20%28Lyric%20Video%29.mp3?dl=1
+#EXTINF:0,Are You Sure Hank Done It This Way - Waylon Jennings
+https://www.dl.dropboxusercontent.com/s/nqubr56ffy1yad3/Are%20You%20Sure%20Hank%20Done%20It%20This%20Way.mp3?dl=1
+#EXTINF:0,Yes I Guess They Oughta Name a Drink After You - Tyler Childers
+https://www.dl.dropboxusercontent.com/s/f0zr31c32sjmd26/Yes%20I%20Guess%20They%20Oughta%20Name%20a%20Drink%20After%20You.mp3?dl=1
+#EXTINF:0,Good One Coming On - Blackberry Smoke
+https://www.dl.dropboxusercontent.com/s/kam1yo84s7jrjsi/Blackberry%20Smoke%20-%20Good%20One%20Comin%27%20On%20%28Live%20in%20North%20Carolina%29%20%28Official%20Audio%29.mp3?dl=1
+#EXTINF:0,Black Creek - Brent Cobb
+https://www.dl.dropboxusercontent.com/s/u3t6o4km6617us4/Brent%20Cobb%20-%20Black%20Creek%20%5BOfficial%20Audio%5D.mp3?dl=1
+#EXTINF:0,Heart On Fire - Eric Church
+https://www.dl.dropboxusercontent.com/s/q0wtzpl2al7m5q7/Eric%20Church%20-%20Heart%20On%20Fire%20%28Lyric%20Video%29.mp3?dl=1

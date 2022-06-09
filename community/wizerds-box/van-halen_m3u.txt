@@ -23,5 +23,11 @@ https://www.dl.dropboxusercontent.com/s/9li4o34em1tm7va/Hot%20for%20Teacher.mp3?
 https://www.dl.dropboxusercontent.com/s/dk47532r9voemuz/Unchained.mp3?dl=1
 #EXTINF:0,Why Can't This Be Love
 https://www.dl.dropboxusercontent.com/s/o0ajfqfwddo2cp8/Why%20Can%27t%20This%20Be%20Love.mp3?dl=1
+#EXTINF:0,Finish What Ya Started
+https://www.dl.dropboxusercontent.com/s/7ihb5dem52ieiy5/Finish%20What%20Ya%20Started.mp3?dl=1
+#EXTINF:0,When It's Love
+https://www.dl.dropboxusercontent.com/s/mc3wha9vhe9a9zv/When%20It%27s%20Love.mp3?dl=1
+#EXTINF:0,(Oh) Pretty Woman
+https://www.dl.dropboxusercontent.com/s/43pk4j90icxxmqc/%28Oh%29%20Pretty%20Woman%29.mp3?dl=1
 #EXTINF:0,Humans Being
-https://www.dl.dropboxusercontent.com/s/z1lh497c9nnmktg/Humans_Being_%28getmp3.pro%29.mp3?dl=1
+https://www.dl.dropboxusercontent.com/s/6xgqgha135es9ep/Humans%20Being.mp3?dl=1

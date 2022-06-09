@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:0,Tuesday's Gone - Lynyrd Skynyrd
+https://www.dl.dropboxusercontent.com/s/6c9kwfj4li3xd6u/Tuesday%27s%20Gone.mp3?dl=1
+#EXTINF:0,Gimme Three Steps - Lynyrd Skynyrd
+https://www.dl.dropboxusercontent.com/s/o59038al5stxvzl/Gimme%20Three%20Steps.mp3?dl=1
+#EXTINF:0,Simple Man - Lynyrd Skynyrd
+https://www.dl.dropboxusercontent.com/s/z30j5wou1m0py8o/Simple%20Man.mp3?dl=1
+#EXTINF:0,Things Goin' On - Lynyrd Skynyrd
+https://www.dl.dropboxusercontent.com/s/1k4cn464llnj1bm/Things%20Goin%27%20On.mp3?dl=1
+#EXTINF:0,Mississippi Kid - Lynyrd Skynyrd
+https://www.dl.dropboxusercontent.com/s/ni1glvxupsn2hat/Mississippi%20Kid.mp3?dl=1
+#EXTINF:0,Poison Whiskey - Lynyrd Skynyrd
+https://www.dl.dropboxusercontent.com/s/7bz6s22w0ajdyre/Poison%20Whiskey.mp3?dl=1
+#EXTINF:0,Free Bird - Lynyrd Skynyrd
+https://www.dl.dropboxusercontent.com/s/uuzzxm7uvvcol6s/Free%20Bird.mp3?dl=1
+#EXTINF:0,What's Your Name - Lynyrd Skynyrd
+https://www.dl.dropboxusercontent.com/s/t7uoldj2a6mxyq8/What%27s%20Your%20Name.mp3?dl=1
+#EXTINF:0,That Smell - Lynyrd Skynyrd
+https://www.dl.dropboxusercontent.com/s/5q6tpu28tqp3wo5/That%20Smell.mp3?dl=1
+#EXTINF:0,Sweet Home Alabama - Lynyrd Skynyrd
+https://www.dl.dropboxusercontent.com/s/qreo815ielu3joz/Sweet%20Home%20Alabama.mp3?dl=1
+#EXTINF:0,Call Me The Breeze - Lynyrd Skynyrd
+https://www.dl.dropboxusercontent.com/s/zhegdjf5j30rm40/Call%20Me%20The%20Breeze.mp3?dl=1
+#EXTINF:0,Remedy - The Black Crowes
+https://www.dl.dropboxusercontent.com/s/gl5dd9e7xtrppwt/Remedy.mp3?dl=1
+#EXTINF:0,My Morning Song - The Black Crowes
+https://www.dl.dropboxusercontent.com/s/2kcad0xyikp0mqs/My%20Morning%20Song.mp3?dl=1
+#EXTINF:0,Twice As Hard - The Black Crowes
+https://www.dl.dropboxusercontent.com/s/no2rw5be0vkiouq/Twice%20As%20Hard.mp3?dl=1
+#EXTINF:0,Hard To Handle - The Black Crowes
+https://www.dl.dropboxusercontent.com/s/rg9djnfu9yol9pk/Hard%20To%20Handle.mp3?dl=1
+#EXTINF:0,Jealous Again - The Black Crowes
+https://www.dl.dropboxusercontent.com/s/uga5divwxk6aynn/Jealous%20Again.mp3?dl=1
+#EXTINF:0,Melissa - Allman Brothers Band
+https://www.dl.dropboxusercontent.com/s/7juxof7juy3e1ye/The%20Allman%20Brothers%20Band%20-%20Melissa%20%28Lyric%20Video%29.mp3?dl=1
+#EXTINF:0,Blue Sky - Allman Brothers Band
+https://www.dl.dropboxusercontent.com/s/9emi68lip9nwa10/Blue%20Sky.mp3?dl=1
+#EXTINF:0,Jessica - Allman Brothers Band
+https://www.dl.dropboxusercontent.com/s/k6t8w0pato70ecv/The%20Allman%20Brothers%20Band%20-%20Jessica.mp3?dl=1
+#EXTINF:0,Ramblin' Man - Allman Brothers Band
+https://www.dl.dropboxusercontent.com/s/ktdk2tghkyaat2o/Ramblin%27%20Man.mp3?dl=1
+#EXTINF:0,Midnight Rider - Allman Brothers Band
+https://www.dl.dropboxusercontent.com/s/dqqz6ueijt2ncra/Midnight%20Rider.mp3?dl=1
+#EXTINF:0,Heard It in a Love Song - The Marshall Tucker Band
+https://www.dl.dropboxusercontent.com/s/ki3d4h4y8b5n4l2/Heard%20It%20in%20a%20Love%20Song.mp3?dl=1
+#EXTINF:0,Can't You See - The Marshall Tucker Band
+https://www.dl.dropboxusercontent.com/s/cqbh3fkeettbi12/Can%27t%20You%20See.mp3?dl=1
+#EXTINF:0,Hold On Loosely - 38 Special
+https://www.dl.dropboxusercontent.com/s/ag0bsh8rpbrgkhb/Hold%20On%20Loosely.mp3?dl=1
+#EXTINF:0,Caught Up In You - 38 Special
+https://www.dl.dropboxusercontent.com/s/o6tf5ohsmwkpaea/Caught%20Up%20In%20You.mp3?dl=1

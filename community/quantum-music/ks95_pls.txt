@@ -1,0 +1,6 @@
+[playlist]
+NumberOfEntries=1
+File1=https://cdn.discordapp.com/attachments/741422679034429492/1010278946836856935/KSTPFMAAC.pls
+Title1=KS95
+Length1=-1
+Version=2

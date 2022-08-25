@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:0,Baby I'm Back (I & II)
-https://marshalls-music.ga/pluffaduff/Baby%20I'm%20Back%20(I%20&%20II).mp3
+https://cdn.dservers.xyz/music/pluffaduff/Baby%20I'm%20Back%20(I%20&%20II).mp3
 #EXTINF:0,Baby I'm Back III
-https://marshalls-music.ga/pluffaduff/Baby%20I'm%20Back%20III.mp3
+https://cdn.dservers.xyz/music/pluffaduff/Baby%20I'm%20Back%20III.mp3
 #EXTINF:0,Baby I'm Back VI
-https://marshalls-music.ga/pluffaduff/Baby%20I'm%20Back%20VI.mp3
+https://cdn.dservers.xyz/music/pluffaduff/Baby%20I'm%20Back%20VI.mp3
 #EXTINF:0,Baby I'm Back V
-https://marshalls-music.ga/pluffaduff/Baby%20I'm%20Back%20V.mp3
+https://cdn.dservers.xyz/music/pluffaduff/Baby%20I'm%20Back%20V.mp3

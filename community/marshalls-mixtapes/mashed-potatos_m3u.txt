@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:0,7 Lasagnas - himynameisshan
+https://cdn.dservers.xyz/music/mashups/7 Lasagnas - himynameisshan.mp3
+#EXTINF:0,Baby I'm Back (I & II)
+https://cdn.dservers.xyz/music/mashups/Baby%20I'm%20Back%20(I%20&%20II).mp3
+#EXTINF:0,Baby I'm Back III
+https://cdn.dservers.xyz/music/mashups/Baby%20I'm%20Back%20III.mp3
+#EXTINF:0,Baby I'm Back VI
+https://cdn.dservers.xyz/music/mashups/Baby%20I'm%20Back%20VI.mp3
+#EXTINF:0,Baby I'm Back V
+https://cdn.dservers.xyz/music/mashups/Baby%20I'm%20Back%20V.mp3
+#EXTINF:0,Closer One More Time - himynameisshan.mp3
+https://cdn.dservers.xyz/music/mashups/Closer One More Time - himynameisshan.mp3
+#EXTINF:0,Doki Doki Hills
+https://cdn.dservers.xyz/music/mashups/Doki Doki Hills.mp3
+#EXTINF:0,Ducktales No. 5
+https://cdn.dservers.xyz/music/mashups/Ducktales No. 5.mp3
+#EXTINF:0,Emo Interlude (Instrumental) - himynameisshan
+https://cdn.dservers.xyz/music/mashups/Emo Interlude (Instrumental) - himynameisshan.mp3
+#EXTINF:0,Emo Interlude - himynameisshan
+https://cdn.dservers.xyz/music/mashups/Emo Interlude - himynameisshan.mp3
+#EXTINF:0,Fallen Primadonna (the best one)
+https://cdn.dservers.xyz/music/mashups/Fallen Primadonna.mp3
+#EXTINF:0,My Juice, Your Wrld - himynameisshan
+https://cdn.dservers.xyz/music/mashups/My Juice, Your Wrld - himynameisshan.mp3
+#EXTINF:0,Need You Closer - himynameisshan
+https://cdn.dservers.xyz/music/mashups/Need You Closer - himynameisshan.mp3
+#EXTINF:0,PIGTERO (Call Me By Your Username) _ hmnis.
+https://cdn.dservers.xyz/music/mashups/PIGTERO (Call Me By Your Username) _ hmnis..mp3
+#EXTINF:0,PIGTERO (Kidz Bop Remix) - himynameisshan
+https://cdn.dservers.xyz/music/mashups/PIGTERO (Kidz Bop Remix) - himynameisshan.mp3
+#EXTINF:0,Psychodansen - himynameisshan
+https://cdn.dservers.xyz/music/mashups/Psychodansen - himynameisshan.mp3
+#EXTINF:0,Real Levitating - himynameisshan
+https://cdn.dservers.xyz/music/mashups/Real Levitating - himynameisshan.mp3
+#EXTINF:0,Rockin' in the Sunlight, Rollin' in the Moonlight - himynameisshan
+https://cdn.dservers.xyz/music/mashups/Rockin' in the Sunlight, Rollin' in the Moonlight - himynameisshan.mp3
+#EXTINF:0,Super Marshall 64
+https://cdn.dservers.xyz/music/mashups/Super Marshall 64.mp3
+#EXTINF:0,The Dino Dance - himynameisshan.mp3
+https://cdn.dservers.xyz/music/mashups/The Dino Dance - himynameisshan
+#EXTINF:0,The Mask (Sus Remix) - himynameisshan
+https://cdn.dservers.xyz/music/mashups/The Mask (Sus Remix) - himynameisshan.mp3
+#EXTINF:0,The Mask _ hmnis.
+https://cdn.dservers.xyz/music/mashups/The Mask _ hmnis..mp3
+#EXTINF:0,The Party Rock Crew (Reprise) - himynameisshan
+https://cdn.dservers.xyz/music/mashups/The Party Rock Crew (Reprise) - himynameisshan.mp3
+#EXTINF:0,The Party Rock Crew - himynameisshan
+https://cdn.dservers.xyz/music/mashups/The Party Rock Crew - himynameisshan.mp3
+#EXTINF:0,The Prophecy Begins - Confushan
+https://cdn.dservers.xyz/music/mashups/The Prophecy Begins - Confushan.mp3
+#EXTINF:0,Womanhater - himynameisshan
+https://cdn.dservers.xyz/music/mashups/Womanhater - himynameisshan.mp3
+#EXTINF:0,Wonderwall.mid - himynameisshan
+https://cdn.dservers.xyz/music/mashups/Wonderwall.mid - himynameisshan.mp3
+#EXTINF:0,You - himynameisshan
+https://cdn.dservers.xyz/music/mashups/You - himynameisshan.mp3

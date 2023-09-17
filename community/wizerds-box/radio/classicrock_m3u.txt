@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:0,Classic Rock 2
-http://rfcmedia.streamguys1.com:80/classicrock.mp3

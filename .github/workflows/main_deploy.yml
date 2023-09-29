@@ -17,7 +17,7 @@ jobs:
         username: ${{ secrets.ftpusername }}
         password: ${{ secrets.ftppassword }}
         local-dir: ./
-        server-dir: /147.135.124.18_27015/garrysmod/data/streamradio/playlists/
+        server-dir: /104.234.220.252_27015/garrysmod/data/streamradio/playlists/
         dangerous-clean-slate: true
         exclude: |
           **/.git*
@@ -32,7 +32,7 @@ jobs:
         username: ${{ secrets.ftpusername }}
         password: ${{ secrets.ftppassword }}
         local-dir: ./
-        server-dir: /147.135.124.18_27018/garrysmod/data/streamradio/playlists/
+        server-dir: /104.234.220.252_27018/garrysmod/data/streamradio/playlists/
         dangerous-clean-slate: true
         exclude: |
           **/.git*

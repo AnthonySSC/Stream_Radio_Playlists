@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0,Classic Hits 3
+http://desertmountainbroadcasting.streamguys1.com/KWMY
